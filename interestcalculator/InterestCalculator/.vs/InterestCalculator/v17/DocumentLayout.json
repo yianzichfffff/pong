@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marriane\\Documents\\interest calculator\\InterestCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D24254-BB98-4B78-9632-98D8706D8E85}|InterestCalculator\\InterestCalculator.csproj|c:\\users\\marriane\\documents\\interest calculator\\interestcalculator\\interestcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D24254-BB98-4B78-9632-98D8706D8E85}|InterestCalculator\\InterestCalculator.csproj|solutionrelative:interestcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D24254-BB98-4B78-9632-98D8706D8E85}|InterestCalculator\\InterestCalculator.csproj|c:\\users\\marriane\\documents\\interest calculator\\interestcalculator\\interestcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40D24254-BB98-4B78-9632-98D8706D8E85}|InterestCalculator\\InterestCalculator.csproj|solutionrelative:interestcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marriane\\Documents\\interest calculator\\InterestCalculator\\InterestCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "InterestCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\marriane\\Documents\\interest calculator\\InterestCalculator\\InterestCalculator\\Form1.cs",
+              "RelativeToolTip": "InterestCalculator\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:37:17.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marriane\\Documents\\interest calculator\\InterestCalculator\\InterestCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "InterestCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\marriane\\Documents\\interest calculator\\InterestCalculator\\InterestCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "InterestCalculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:52:58.171Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
