@@ -1,0 +1,11 @@
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\obj\Debug\mathquizapplication.csproj.AssemblyReference.cache
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\obj\Debug\mathquizapplication.Form1.resources
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\obj\Debug\mathquizapplication.Properties.Resources.resources
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\obj\Debug\mathquizapplication.csproj.GenerateResource.cache
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\obj\Debug\mathquizapplication.csproj.CoreCompileInputs.cache
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\bin\Debug\mathquizapplication.exe.config
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\bin\Debug\mathquizapplication.exe
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\bin\Debug\mathquizapplication.pdb
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\obj\Debug\mathquizapplication.exe
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\obj\Debug\mathquizapplication.pdb
+C:\Users\marriane\Documents\mathquizapp\mathquizapplication\mathquizapplication\obj\Debug\mathquizapplication.exe.config
